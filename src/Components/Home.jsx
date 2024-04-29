@@ -1,3 +1,4 @@
+import Carrousel from "./Carrousel";
 import Ingresar from "./Ingresar";
 import Title from "./Title";
 
@@ -75,6 +76,7 @@ const Home = () => {
           </div>
         </article>
       </section>
+      <Carrousel />
       <Ingresar />
     </div>
   );
