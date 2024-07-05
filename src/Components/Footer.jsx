@@ -16,10 +16,10 @@ const Footer = () => {
           <img src={gmlm} alt="" />
         </a>
       </div>
-      <pre className="text-center">Tecnologico Nacional de Mexico</pre>
-      <pre className="text-center">Instituto Tecnologico de Cuautla</pre>
+      <pre className="text-center">Tecnológico Nacional de Mexico</pre>
+      <pre className="text-center">Instituto Tecnológico de Cuautla</pre>
       <pre className="text-center break-words">
-        © Pagina desarrollada por <br className="lg:hidden" />
+        © Página desarrollada por <br className="lg:hidden" />
         Daniel Alejandro Contreras Martinez
       </pre>
     </footer>

@@ -7,13 +7,13 @@ const Home = () => {
     <div className="w-full h-auto">
       <Title />
       <h2 className="text-2xl text-center font-bold my-5 lg:text-3xl">
-        DESCRIPCION
+        DESCRIPCIÓN
       </h2>
       <section className="flex flex-col lg:flex-row">
         <article className="w-full lg:w-1/2 p-6 flex flex-col items-center justify-center lg:p-12">
           <div className="w-full text-gray-500 ">
             <h3 className="font-bold text-xl mb-3 lg:text-2xl">
-              Club de Robotica del TECNM Campus Cuautla
+              ¿Quiénes somos?
             </h3>
             <p className="lg:text-xl">
               El Club de Robótica del Instituto Tecnológico de Cuautla es un
@@ -32,12 +32,12 @@ const Home = () => {
         <article className="w-full bg-img1 bg-cover bg-center  h-[300px] lg:h-[400px] lg:w-1/2"></article>
         <article className="w-full lg:w-1/2 p-6 flex flex-col items-center justify-center lg:p-12">
           <div className="w-full text-gray-500 ">
-            <h3 className="font-bold text-xl mb-3 lg:text-2xl">Unetenos!</h3>
+            <h3 className="font-bold text-xl mb-3 lg:text-2xl">¡Únetenos!</h3>
             <p className="lg:text-xl">
               Si eres apasionado de la robótica te esperamos en nuestro club.
               Contamos con instalaciones adecuadas para que puedas realizar
               aquello que requieras para tus proyectos. En el Instituto
-              Tecnologico de cuautla tenemos cursos y talleres que ayudarán a
+              Tecnológico de cuautla tenemos cursos y talleres que ayudarán a
               potenciar tus conocimientos sobre circuitos y software.
             </p>
           </div>
@@ -47,7 +47,7 @@ const Home = () => {
         <article className="w-full lg:w-1/2 p-6 flex flex-col items-center justify-center lg:p-12">
           <div className="w-full text-gray-500 ">
             <h3 className="font-bold text-xl mb-3 lg:text-2xl">
-              Enfrenta nuevos retos!
+              ¡Enfrenta nuevos retos!
             </h3>
             <p className="lg:text-xl">
               el Club de Robótica del Instituto Tecnológico de Cuautla ofrece a
@@ -68,7 +68,7 @@ const Home = () => {
               Nuestros servicios
             </h3>
             <p className="lg:text-xl">
-              Cuando te unes a nuestro club, puedes elegir entre la variedad de
+              Cuando te únes a nuestro club, puedes elegir entre la variedad de
               cursos y talleres que más te llamen la atención. Las clases son
               una excelente manera de conocer a algunos de nuestros amables
               miembros y desafiarte a ti mismo a aprender nuevas habilidades.
